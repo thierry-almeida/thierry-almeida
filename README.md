@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Thierry!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
